@@ -20,8 +20,8 @@ body > * {
 
 .bi {
   vertical-align: -.125em;
-  fill: currentColor;
   pointer-events: none;
+  fill: currentColor;
 }
 
 .dropdown-toggle { outline: 0; }
@@ -29,7 +29,6 @@ body > * {
 .nav-flush .nav-link {
   border-radius: 0;
 }
-
 
 .btn-toggle {
   display: inline-flex;
