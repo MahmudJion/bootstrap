@@ -7,6 +7,8 @@
       description: "Set the stage on your homepage with heroes that feature clear calls to action."
     - name: Features
       description: "Explain the features, benefits, or other details in your marketing content."
+    - name: Sidebars
+      description: "Common navigation patterns ideal for offcanvas or multi-column layouts."
 
 - category: Custom Components
   description: "Brand new components and templates to help folks quickly get started with Bootstrap and demonstrate best practices for adding onto the framework."
